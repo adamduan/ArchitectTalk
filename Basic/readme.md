@@ -1,1 +1,1 @@
-#Basic knowlege
+# Basic knowledge
